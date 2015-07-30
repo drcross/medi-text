@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="hello_world">medi-text</string>
+    <string name="action_settings">Settings</string>
+        <string name="hello">MainActivity</string>
+        <string name="app_name">medi-text</string>
+        <string name="msgLoadFile">This app adds modern medical terms to your keyboard autosuggest and autocorrect.</string>
+        <string name="msgLoadFile2">It is based on two medical dictionary projects: OpenMedSpel by e-MedTools and Co-Med-Spel-Chek by Rajasekharan N. The wordlist contains over 90,000 medical terms but is easily processed by a modern phone.</string>
+        <string name="msgLoadFile3">The two sources have been merged, deduplicated, corrected and formatted. Please be patient during import.</string>
+</resources>
+
